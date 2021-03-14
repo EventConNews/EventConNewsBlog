@@ -90,7 +90,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18);
   margin-top: 5px;
 
 }
-/* Add a black background color to the top navigation */
+/* Add a transparent color to the top navigation */
 .topnav {
   background: rgba( 255, 255, 255, 0.00 );
 box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
@@ -116,13 +116,13 @@ border: 1px solid rgba(255, 255, 255, 0.525);
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: purple;
   color: black;
 }
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color: #4CAF50;
+  background: rgba( 255, 255, 255, 0.00 );
   color: white;
 }
 
