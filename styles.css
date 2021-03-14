@@ -14,7 +14,7 @@ header {
 main {
   flex: 1;
   padding: 20px;
-  margin-top: 5px;
+  margin: 5px;
 }
 /* @media */
 @media (min-width: 768px) {
@@ -90,33 +90,39 @@ border: 1px solid rgba( 255, 255, 255, 0.18);
   margin-top: 5px;
 
 }
-/* Add a black background color to the top navigation */
+/* Add a transparent color to the top navigation */
 .topnav {
-  background-color: #333;
+  background: rgba( 255, 255, 255, 0.00 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 12.5px );
+-webkit-backdrop-filter: blur( 12.5px );
+border-radius: 10px;
+border: 1px solid rgba(255, 255, 255, 0.525);
+  color: rgb(3, 3, 3);
   overflow: hidden;
- 
+ padding: 10px;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: right;
+  float:left;
   display: block;
-  color: #f2f2f2;
+  color: purple;
   text-align: center;
-  padding: 14px 16px;
+  padding: 10px;
   text-decoration: none;
   font-size: 17px;
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: purple;
   color: black;
 }
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color: #4CAF50;
+  background: rgba( 255, 255, 255, 0.00 );
   color: white;
 }
 
@@ -131,7 +137,7 @@ nav {
   -webkit-backdrop-filter: blur( 12.5px );
   border-radius: 10px;
   border: 1px solid rgba( 255, 255, 255, 0.18 );
-  padding: 20px;
+  padding: 5px;
   margin-top: 5px;
   
 }
@@ -218,10 +224,8 @@ margin-top: 5px;
 
 footer {
   grid-column: span 3;
-  padding: 30px;
   text-align: center;
   font-size: 1.4em;
-  padding: 20px;
   background: rgba( 255, 255, 255, 0.00 );
 box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
 backdrop-filter: blur( 12.5px );
@@ -231,8 +235,10 @@ border: 1px solid rgba( 255, 255, 255, 0.18);
 margin-bottom: 5px;
 margin-top: 5px;
   color: rgb(3, 3, 3);
+  overflow: hidden;
+ padding: 10px;
 }
 .footer, li, a, image {
-  size: ;
+  size: 10px;
 
 }
