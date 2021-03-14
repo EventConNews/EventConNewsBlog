@@ -105,11 +105,11 @@ border: 1px solid rgba(255, 255, 255, 0.525);
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float:none;
+  float:left;
   display: block;
-  color: #f2f2f2;
+  color: purple;
   text-align: center;
-  padding: 14px 6px;
+  padding: 10px;
   text-decoration: none;
   font-size: 17px;
 }
