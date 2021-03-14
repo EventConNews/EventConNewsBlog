@@ -12,3 +12,11 @@ This repo contains a blog detailing upcoming live events and coventions
 
 ### Wire Frame
 [wire frame](https://wireframe.cc/wK4mB1)
+
+### Color Pallette
+Conventions
+Art Installations
+Conferences
+Tournaments
+Live Music
+Virtual Events
