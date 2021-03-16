@@ -1,5 +1,5 @@
 # EventConNewsBlog
-This repo contains a blog detailing upcoming live events and coventions
+This repo contains a blog detailing upcoming live events and conventions
 
 ### Blog Schedule
 | March| April | May| June |
