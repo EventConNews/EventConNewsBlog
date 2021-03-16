@@ -16,7 +16,7 @@ This repo contains a blog detailing upcoming live events and coventions
 ### Color Pallette
 <img class="color palette" src="images/eventconnewscolorpalette.jpg" alt="Event Convention News Color Palette" />
 Conventions: R,G,B color: 125,100,97
-Art Installations:R,G,B color: 215, 205, 200
+Art Installations:R,G,B color: 215, 205, 200 <br>
 Conferences: R,G,B color: 214, 110, 41
 Tournaments: R,G,B color: 134, 172, 202
 Live Music: R,G,B color: 252, 207, 72
