@@ -203,13 +203,56 @@ margin-bottom: 5px;
   object-fit: cover;
 }
 
-.article-title {
+
+.conventions-title {
   position: absolute;
   bottom: 0;
-  width: 100%;
+  width: 92%;
   padding: 10px;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(125,100,97, 0.5);
+  margin-bottom: 1%;
 }
+.artinstallations-title {
+  position: absolute;
+  bottom: 0;
+  width: 92%;
+  padding: 10px;
+  background-color: rgba(215, 205, 200, 0.5);
+  margin-bottom: 1%;
+}
+.conferences-title {
+  position: absolute;
+  bottom: 0;
+  width: 92%;
+  padding: 10px;
+  background-color: rgba(214, 110, 41, 0.5);
+  margin-bottom: 1%;
+}
+.tournaments-title {
+  position: absolute;
+  bottom: 0;
+  width: 92%;
+  padding: 10px;
+  background-color: rgba(134, 172, 202, 0.5);
+  margin-bottom: 1%;
+}
+.livemusic-title {
+  position: absolute;
+  bottom: 0;
+  width: 92%;
+  padding: 10px;
+  background-color: rgba(252, 207, 72, 0.5);
+  margin-bottom: 1%;
+}
+.virtualevents-title {
+  position: absolute;
+  bottom: 0;
+  width: 92%;
+  padding: 10px;
+  background-color: rgba(71, 60, 68, 0.5);
+  margin-bottom: 1%;
+}
+
 
 aside {
   padding: 20px;
