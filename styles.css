@@ -210,6 +210,26 @@ margin-bottom: 5px;
   padding: 10px;
   background-color: rgba(255, 255, 255, 0.2);
 }
+.conventions-title {
+  position: absolute;
+  bottom: 0;
+  width: 92%;
+  padding: 10px;
+  background-color: rgba(125,100,97, 0.2);
+  margin-bottom: 1%;
+}
+.conventions-title {
+  position: absolute;
+  bottom: 0;
+  width: 92%;
+  padding: 10px;
+  background-color: rgba(125,100,97, 0.2);
+  margin-bottom: 1%;
+}
+
+
+
+
 
 aside {
   padding: 20px;
